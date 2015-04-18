@@ -47,7 +47,7 @@ public class MainActivity extends ActionBarActivity {
             LinkedHashMap<String, String> params = new LinkedHashMap<String, String>();
             params.put("from", "918277531975");
             params.put("to", ph);
-            params.put("answer_url", "http://abdd5e93.ngrok.io/direct-dial.xml");
+            params.put("answer_url", "https://gist.githubusercontent.com/SujaySKumar/697296c32cfb1ecf51a7/raw/b96f8b921d3bfb1cd169c50eb75e73b618c9904b/direct-dial");
 
             Call response;
             try {
