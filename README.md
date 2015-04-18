@@ -12,4 +12,4 @@
 
 7.Later, I came across the Java Helper Library of Plivo and found it to be much better, safer and robust than making a raw REST API call from the native Android app. Therefore, the Java Helper Library was included in the project and was used to place calls by invoking the necessary functions of the RestAPI class.
 
-8.The XML response that the Plivo API expected was a simple static XML file that hosted on localhost with ngrok tunneling for external access.
+8.The XML response that the Plivo API expected was a simple static XML file that was hosted on localhost with ngrok tunneling for external access.
